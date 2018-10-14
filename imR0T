@@ -6,7 +6,7 @@
 imR0T_NAME="imR0T"
 imR0T_VERSION="1.0 ~ beta"
      
-[[ `id -u` -eq 0 ]] || { echo "You Must Get root acess to run this post exploitation "; exit 1; }
+[[ `id -u` -eq 0 ]] || { echo "You Must Get root acess to run this tool "; exit 1; }
 
 
 source src/_general_functions
