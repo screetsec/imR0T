@@ -5,7 +5,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
-**imR0T:** Send a **quick message** with simple **text encryption** to your whatsapp contact and protect your text by encrypting and decrypting, basically in **ROT13** with **new multi encryption** based algorithm on ASCII and Symbols Substitution
+**imR0T:** Send a **quick message** with simple **text encryption** to your whatsapp contact and , basically in **ROT13** with **new multi encryption** based algorithm on ASCII and Symbols Substitution
 
 <img src="https://user-images.githubusercontent.com/17976841/46870255-526b2e80-ce58-11e8-84f4-8a7919be6a99.PNG" ></img>
 
